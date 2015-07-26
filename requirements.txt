@@ -1,0 +1,4 @@
+flask
+cherrypy
+Flask-Assets
+pyScss
